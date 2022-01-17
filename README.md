@@ -1,1 +1,1 @@
-# Data Science Challenges Practice
+# Data Science Projects Practice
